@@ -1,0 +1,48 @@
+# Arduino IDE
+*.o
+*.a
+*.so
+*.so.*
+*.exe
+*.out
+*.app
+*.hex
+
+# Build directories
+build/
+dist/
+.pio/
+.pioenvs/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.sublime-*
+*.code-workspace
+.DS_Store
+Thumbs.db
+
+# Operating System
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Backup files
+*.bak
+*.backup
+*~
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# OS specific
+.DS_Store
+desktop.ini
+
+# Dependencies
+node_modules/
